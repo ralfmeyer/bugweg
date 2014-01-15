@@ -1,6 +1,6 @@
 <?php
 
-namespace Application\Entitiy;
+namespace Application\Entity;
 
 class Art{
 

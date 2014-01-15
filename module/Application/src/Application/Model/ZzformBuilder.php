@@ -10,7 +10,7 @@ use Zend\View\Model\ViewModel;
 use Zend\Mvc\Controller\AbstractActionController;
 
 
-class ZzformBuilder{
+class ZzformBuilder implements ServiceLocatorAwareInterface {
 
 	private $formname;
 	private $form;
